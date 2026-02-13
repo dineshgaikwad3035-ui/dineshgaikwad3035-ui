@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**dineshgaikwad3035-ui/dineshgaikwad3035-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Dinesh Gaikwad 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BSc IT Student (8+ GPA)  
+💻 Passionate about Web Development & AI/ML  
+
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- jQuery, Bootstrap
+- PHP
+- C, C++, Java
+- Python
+- SQL
+- Data Structures & Algorithms
+- Git & GitHub
+
+## 📌 Currently Learning
+- Artificial Intelligence
+- Machine Learning
+
+## 🔗 Connect With Me
+GitHub: https://github.com/dineshgaikwad3035-ui
