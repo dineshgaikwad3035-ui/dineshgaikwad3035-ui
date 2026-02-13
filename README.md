@@ -2,21 +2,39 @@
 
 ## 🎓 About Me
 - BSc IT Student (Second Year)
-- GPA: 8+
-- Passionate about AI & ML
-- Strong foundation in Web Development
+- GPA: 8+ (A+ Grade)
+- Passionate about AI & Machine Learning
+- Strong foundation in programming & web development
 
-## 💻 Skills
+## 💻 Technical Skills
+
+### 🌐 Web Development
 - HTML
 - CSS
 - JavaScript
+- jQuery
+- Bootstrap
 - PHP
-- C / C++
+
+### 💻 Programming Languages
+- C
+- C++
 - Java
 - Python
-- SQL
-- Git & GitHub
 
-## 🔗 Connect With Me
-- GitHub: https://github.com/dineshgaikwad3035-ui
+### 🗄 Database
+- PostgreSQL
+
+### 📊 Core CS Concepts
+- Data Structures & Algorithms (DSA Fundamentals)
+- OOP Concepts
+- Problem Solving
+
+### 🔧 Tools
+- Git
+- GitHub
+
+## 📌 Currently Learning
+- Advanced DSA
+- Machine Learning Basics
 
